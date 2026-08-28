@@ -19,7 +19,6 @@ Fonte única de consulta para **planejar, estruturar, implementar, operar e melh
 | [06 — Ativos e Configuração](./06-ativos-e-configuracao/) | Ativos, CMDB, configuração, inventário e NetBox |
 | [07 — Monitoramento e Observabilidade](./07-monitoramento-e-observabilidade/) | Alertas, disponibilidade, logs, métricas, SRE e Zabbix |
 | [08 — Segurança e Continuidade](./08-seguranca-e-continuidade/) | Acessos, continuidade, incidentes de segurança, riscos e vulnerabilidades |
-| [90 — Modelos e Templates](./90-modelos-e-templates/) | Checklists, fluxos, matrizes, políticas, procedimentos e RACI |
 
 ---
 
@@ -232,21 +231,6 @@ Segregação de responsabilidades
 - Riscos de segurança
 - Segurança de infraestrutura
 - Vulnerabilidades
-
----
-
-# 90 — Modelos e Templates
-
-- Checklists
-- Dashboards
-- Fluxos
-- Formulários
-- Matrizes
-- Planos
-- Políticas
-- Procedimentos
-- RACI
-- Roadmaps
 
 ---
 

@@ -1,6 +1,0 @@
-Ferramenta em Python para diagnóstico inicial da Operação de TI, com avaliação por áreas, níveis de capacidade, relatórios e exportação em PDF.
-IT-Operations-Assessment/
-├── app.py
-├── README.md
-├── requirements.txt
-└── .gitignore

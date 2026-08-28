@@ -36,6 +36,7 @@ Abrange os mecanismos utilizados para direcionar, avaliar, controlar e gerenciar
 01-governanca-e-gestao/
 ├── governanca-de-ti/
 ├── governanca-de-ia/
+├── governanca-de-dados/
 └── gestao-de-servicos-de-ti/
 ```
 

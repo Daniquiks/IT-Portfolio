@@ -1,21 +1,18 @@
-# Planejamento e Implementação
+# Diagnóstico e Planejamento de TI
 
-Base para avaliar o ambiente, definir prioridades e planejar a implementação ou evolução das capacidades de TI.
+Ferramentas e modelos para compreender o ambiente atual, identificar lacunas, definir prioridades e planejar a evolução da TI.
 
-## Conteúdo
+## Utilizar para
 
-- Avaliação de contexto
-- Diagnóstico
-- Levantamento do ambiente
-- Maturidade
-- Modelo-alvo
-- Modelos de implementação
-- Papéis e responsabilidades
-- Priorização
-- Roadmap
+- Avaliar o ambiente de TI
+- Identificar riscos e deficiências
+- Levantar infraestrutura, sistemas, serviços e processos
+- Avaliar maturidade
+- Definir prioridades
+- Definir o modelo-alvo
+- Elaborar plano de ação
+- Construir roadmap de evolução
 
-## Objetivo
+## Fluxo
 
-Apoiar a definição de:
-
-**Onde estamos → Onde queremos chegar → O que implementar → Como implementar → Como evoluir**
+Diagnóstico → Lacunas → Prioridades → Modelo-alvo → Plano de ação → Roadmap

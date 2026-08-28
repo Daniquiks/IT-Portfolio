@@ -1,0 +1,25 @@
+# Banco de dados local
+it_assessment.db
+it_assessment.db-wal
+it_assessment.db-shm
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# IDE / sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

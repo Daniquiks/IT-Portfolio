@@ -246,24 +246,8 @@ Information-Technology/
 ├── 05-dados/
 ├── 06-ativos-e-configuracao/
 ├── 07-monitoramento-e-observabilidade/
-├── 08-seguranca-e-continuidade/
-└── 90-modelos-e-templates/
+└── 08-seguranca-e-continuidade/
 ```
 
----
-
-## Frameworks e Métodos
-
-Frameworks, métodos e referenciais de estudo ficam separados no repositório **Frameworks-and-Methods**.
-
-Exemplos:
-
-- Agile
-- COBIT
-- ITIL
-- Kanban
-- Lean
-- PMBOK
-- Scrum
 
 O `Information-Technology` é voltado principalmente para **aplicação prática e implementação**.

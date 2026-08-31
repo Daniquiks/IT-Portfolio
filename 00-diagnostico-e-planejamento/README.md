@@ -532,8 +532,7 @@ Os achados identificados nesta etapa devem direcionar os demais domínios:
 - **04 — Infraestrutura**: redes, servidores, datacenter e plataformas;
 - **05 — Ativos e Configuração**: inventário, CMDB e ciclo de vida;
 - **06 — Automação e Integrações**: redução de atividades manuais e integração entre ferramentas;
-- **07 — Dados e Indicadores**: métricas, relatórios e apoio à decisão;
-- **08 — Governança de IA**: controles relacionados ao uso de Inteligência Artificial.
+- **07 — Governança de IA**: controles relacionados ao uso de Inteligência Artificial.
 
 ---
 

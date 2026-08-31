@@ -1194,18 +1194,6 @@ Este domínio pode produzir:
 
 ---
 
-# Relação com o IT Portfolio
-
-- **00 — Diagnóstico e Planejamento** identifica oportunidades, riscos e nível atual de adoção de IA;
-- **01 — Governança e Gestão** fornece os mecanismos gerais de decisão, risco, controle e acompanhamento;
-- **02 — Operação e Serviços** utiliza IA em processos de atendimento e sustentação;
-- **03 — Monitoramento e Observabilidade** acompanha comportamento, disponibilidade e desempenho das soluções;
-- **04 — Infraestrutura** sustenta ambientes, plataformas e componentes utilizados pelas soluções;
-- **05 — Ativos e Configuração** registra componentes, relacionamentos e dependências;
-- **06 — Automação e Integrações** implementa integrações e automações que podem incorporar IA.
-
----
-
 # Resultado esperado
 
 Uma organização capaz de utilizar Inteligência Artificial de forma **planejada, rastreável e proporcional ao risco**, com casos de uso conhecidos, responsáveis definidos, dados protegidos, controles estabelecidos, resultados monitorados e mecanismos formais de revisão e melhoria contínua.

@@ -31,7 +31,6 @@ IT-Portfolio/
 ├── 04-infraestrutura/
 ├── 05-ativos-e-configuracao/
 ├── 06-automacao-e-integracoes/
-├── 07-dados-e-indicadores/
-├── 08-governanca-de-ia/
+├── 07-governanca-de-ia/
 ├── templates/
 └── checklists/

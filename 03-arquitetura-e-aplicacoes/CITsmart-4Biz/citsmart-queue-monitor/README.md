@@ -45,3 +45,9 @@ Credenciais e parâmetros específicos do ambiente não fazem parte do
 repositório.
 
 Utilize `.env.example` como referência para configurar sua instalação.
+
+## Licença
+
+Este projeto é disponibilizado sob a licença MIT.
+
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.

@@ -795,8 +795,7 @@ Este domínio pode produzir:
 - **04 — Infraestrutura** sustenta tecnicamente os serviços;
 - **05 — Ativos e Configuração** fornece informações sobre os componentes;
 - **06 — Automação e Integrações** reduz esforço operacional;
-- **07 — Dados e Indicadores** transforma os eventos em informação gerencial;
-- **08 — Governança de IA** orienta o uso controlado de IA na operação.
+- **07 — Governança de IA** orienta o uso controlado de IA na operação.
 
 ---
 

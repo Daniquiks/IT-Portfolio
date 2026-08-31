@@ -1091,8 +1091,7 @@ Este domínio pode produzir:
 - **03 — Monitoramento e Observabilidade** acompanha disponibilidade e desempenho;
 - **05 — Ativos e Configuração** mantém inventário e relacionamentos;
 - **06 — Automação e Integrações** automatiza atividades de infraestrutura;
-- **07 — Dados e Indicadores** consolida capacidade e desempenho;
-- **08 — Governança de IA** pode apoiar controles relacionados à infraestrutura utilizada por soluções de IA.
+- **07 — Governança de IA** pode apoiar controles relacionados à infraestrutura utilizada por soluções de IA.
 
 ---
 

@@ -5,10 +5,9 @@ Conteúdos para estruturar o direcionamento, controle, planejamento e acompanham
 ## Conteúdo
 
 - Conformidade
-- Governança de Inteligência Artificial
-- Governança de TI
+- Compliance
 - Indicadores e desempenho
-- Planejamento de TI
+- Pessoas
 - Políticas e diretrizes
 - Riscos e controles
 

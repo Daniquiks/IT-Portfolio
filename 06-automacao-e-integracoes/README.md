@@ -1076,18 +1076,6 @@ Este domínio pode produzir:
 
 ---
 
-# Relação com o IT Portfolio
-
-- **00 — Diagnóstico e Planejamento** identifica atividades candidatas à automação;
-- **01 — Governança e Gestão** define controles e responsabilidades;
-- **02 — Operação e Serviços** recebe automações para fluxos de atendimento;
-- **03 — Monitoramento e Observabilidade** gera eventos e monitora integrações;
-- **04 — Infraestrutura** fornece plataformas e ambientes;
-- **05 — Ativos e Configuração** fornece dados para sincronização;
-- **07 — Governança de IA** define controles quando IA fizer parte da automação.
-
----
-
 # Resultado esperado
 
 Uma operação com **menos tarefas manuais, integrações mais confiáveis, maior rastreabilidade, redução de erros, melhor aproveitamento da equipe e automações implementadas com segurança, controle e capacidade de manutenção**.

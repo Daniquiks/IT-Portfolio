@@ -992,18 +992,6 @@ Este domínio pode produzir:
 
 ---
 
-## Relação com o IT Portfolio
-
-- **00 — Diagnóstico e Planejamento** identifica gaps de monitoramento;
-- **01 — Governança e Gestão** define controles, metas e responsabilidades;
-- **02 — Operação e Serviços** utiliza alertas para tratar incidentes;
-- **04 — Infraestrutura** fornece os componentes monitorados;
-- **05 — Ativos e Configuração** fornece inventário e relacionamentos;
-- **06 — Automação e Integrações** conecta monitoramento a outras ferramentas;
-- **07 — Governança de IA** pode orientar usos de IA em correlação e análise.
-
----
-
 ## Resultado esperado
 
 Uma operação capaz de **detectar falhas rapidamente, compreender seu contexto, reduzir tempos de resposta e restauração, acompanhar capacidade e confiabilidade e transformar sinais técnicos em ações operacionais e gerenciais**.

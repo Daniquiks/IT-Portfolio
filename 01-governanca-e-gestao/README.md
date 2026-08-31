@@ -582,23 +582,6 @@ Ao longo deste domínio, podem ser produzidos:
 
 ---
 
-## Relação com o IT Portfolio
-
-Este domínio recebe insumos do diagnóstico e transforma os achados em controles, responsabilidades e mecanismos de gestão.
-
-Relacionamentos principais:
-
-- **00 — Diagnóstico e Planejamento**: identifica gaps e prioridades;
-- **02 — Operação e Serviços**: executa os processos;
-- **03 — Monitoramento e Observabilidade**: fornece evidências e alertas;
-- **04 — Infraestrutura**: aplica controles técnicos;
-- **05 — Ativos e Configuração**: mantém base de ativos;
-- **06 — Automação e Integrações**: reduz esforço manual;
-- **07 — Dados e Indicadores**: mede desempenho;
-- **08 — Governança de IA**: estende os controles para uso de IA.
-
----
-
 ## Resultado esperado
 
 Uma operação com **direcionamento claro, responsabilidades definidas, riscos controlados, processos acompanhados, indicadores confiáveis e ciclos formais de melhoria contínua**.

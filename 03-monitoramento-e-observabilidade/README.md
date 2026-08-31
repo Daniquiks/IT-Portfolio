@@ -1000,8 +1000,7 @@ Este domínio pode produzir:
 - **04 — Infraestrutura** fornece os componentes monitorados;
 - **05 — Ativos e Configuração** fornece inventário e relacionamentos;
 - **06 — Automação e Integrações** conecta monitoramento a outras ferramentas;
-- **07 — Dados e Indicadores** consolida métricas e tendências;
-- **08 — Governança de IA** pode orientar usos de IA em correlação e análise.
+- **07 — Governança de IA** pode orientar usos de IA em correlação e análise.
 
 ---
 

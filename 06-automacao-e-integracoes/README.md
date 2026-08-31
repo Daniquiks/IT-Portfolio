@@ -1084,8 +1084,7 @@ Este domínio pode produzir:
 - **03 — Monitoramento e Observabilidade** gera eventos e monitora integrações;
 - **04 — Infraestrutura** fornece plataformas e ambientes;
 - **05 — Ativos e Configuração** fornece dados para sincronização;
-- **07 — Dados e Indicadores** utiliza automações para coleta e consolidação;
-- **08 — Governança de IA** define controles quando IA fizer parte da automação.
+- **07 — Governança de IA** define controles quando IA fizer parte da automação.
 
 ---
 

@@ -518,21 +518,6 @@ Comparação da maturidade
 Novo ciclo de melhoria
 ```
 
----
-
-## Relação com o IT Portfolio
-
-Esta é a porta de entrada do **IT Portfolio**.
-
-Os achados identificados nesta etapa devem direcionar os demais domínios:
-
-- **01 — Governança e Gestão**: controles, responsabilidades, riscos e gestão;
-- **02 — Operação e Serviços**: processos de atendimento e sustentação;
-- **03 — Monitoramento e Observabilidade**: alertas, disponibilidade e confiabilidade;
-- **04 — Infraestrutura**: redes, servidores, datacenter e plataformas;
-- **05 — Ativos e Configuração**: inventário, CMDB e ciclo de vida;
-- **06 — Automação e Integrações**: redução de atividades manuais e integração entre ferramentas;
-- **07 — Governança de IA**: controles relacionados ao uso de Inteligência Artificial.
 
 ---
 

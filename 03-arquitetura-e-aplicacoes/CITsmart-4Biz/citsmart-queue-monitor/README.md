@@ -46,6 +46,24 @@ repositório.
 
 Utilize `.env.example` como referência para configurar sua instalação.
 
+## Aviso
+
+Este é um projeto independente e não oficial.
+
+O projeto não possui vínculo, associação, patrocínio ou endosso da
+Run2biz, CITSmart ou de seus respectivos proprietários.
+
+CITSmart, 4Biz e demais marcas mencionadas pertencem aos seus
+respectivos titulares e são utilizadas neste projeto apenas para
+identificar compatibilidade técnica.
+
+A utilização desta ferramenta deve ocorrer exclusivamente em ambientes
+para os quais o usuário possua autorização de acesso, respeitando os
+contratos, licenças, políticas de segurança e regras da organização.
+
+Este projeto não inclui credenciais, dados reais de chamados, URLs
+internas ou informações confidenciais de ambientes de produção.
+
 ## Licença
 
 Este projeto é disponibilizado sob a licença MIT.

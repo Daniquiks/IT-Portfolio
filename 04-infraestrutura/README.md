@@ -1083,18 +1083,6 @@ Este domínio pode produzir:
 
 ---
 
-# Relação com o IT Portfolio
-
-- **00 — Diagnóstico e Planejamento** identifica riscos e gaps;
-- **01 — Governança e Gestão** define controles e responsabilidades;
-- **02 — Operação e Serviços** utiliza a infraestrutura para entregar serviços;
-- **03 — Monitoramento e Observabilidade** acompanha disponibilidade e desempenho;
-- **05 — Ativos e Configuração** mantém inventário e relacionamentos;
-- **06 — Automação e Integrações** automatiza atividades de infraestrutura;
-- **07 — Governança de IA** pode apoiar controles relacionados à infraestrutura utilizada por soluções de IA.
-
----
-
 # Resultado esperado
 
 Uma infraestrutura de TI **documentada, padronizada, segura, monitorada e preparada para suportar os serviços com níveis adequados de disponibilidade, capacidade, continuidade e confiabilidade**.

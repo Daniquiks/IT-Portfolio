@@ -161,6 +161,12 @@ IT-Operations-Assessment/
 - fundamentar cada grupo de perguntas em referências bibliográficas;
 - calibrar pesos, níveis-alvo e critérios com literatura e uso real.
 
+## Licença
+
+Este projeto é disponibilizado sob a licença MIT.
+
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
 ## Autor
 

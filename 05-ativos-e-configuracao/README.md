@@ -857,18 +857,6 @@ Este domínio pode produzir:
 
 ---
 
-## Relação com o IT Portfolio
-
-- **00 — Diagnóstico e Planejamento** identifica gaps de inventário;
-- **01 — Governança e Gestão** define responsabilidades e controles;
-- **02 — Operação e Serviços** relaciona chamados aos ativos;
-- **03 — Monitoramento e Observabilidade** utiliza os ativos para cobertura e monitoramento;
-- **04 — Infraestrutura** fornece os componentes técnicos;
-- **06 — Automação e Integrações** sincroniza e atualiza bases;
-- **07 — Governança de IA** pode utilizar inventário para mapear infraestrutura relacionada a soluções de IA.
-
----
-
 ## Resultado esperado
 
 Uma gestão de ativos e configurações capaz de fornecer **informações confiáveis, relacionamentos úteis, rastreabilidade, controle de ciclo de vida e suporte efetivo à operação, à governança e à tomada de decisão**.
